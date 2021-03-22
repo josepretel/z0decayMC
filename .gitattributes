@@ -1,0 +1,4 @@
+ee.root filter=lfs diff=lfs merge=lfs -text
+mm.root filter=lfs diff=lfs merge=lfs -text
+qq.root filter=lfs diff=lfs merge=lfs -text
+tt.root filter=lfs diff=lfs merge=lfs -text
